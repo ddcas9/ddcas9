@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ddcas9
 
-- 👀 I’m interested in the neuroscience of learning, memory, and cognitive disorders, but right now I'm focusing on AI tools for histopathology and computational biology 
-- 🌱 I’m currently learning Image Processing, TensorFlow 2, Bioconductor, and Transcriptomics
-- 💞️ I’m looking to collaborate on histopathology projects!
+- 👀 I’m interested in the neuroscience of learning, memory, and cognitive disorders, but right now I'm focusing on AI tools for histopathology, clinical simulation and computational biology 
+- 🌱 I’m currently learning about simulation, dynamical systems, image processing, TensorFlow 2, bioconductor, and transcriptomics
+- 💞️ I’m looking to collaborate on histopathology and clinical AI projects!
 
 <!---
 ddcas9/ddcas9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
